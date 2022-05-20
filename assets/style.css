@@ -1,0 +1,6 @@
+.card {
+    max-width: 500px;
+    margin: auto;
+    background: rgb(19, 11, 81);
+    padding: 10px;
+}
